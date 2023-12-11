@@ -6,9 +6,9 @@ export function Copyright() {
         target="_blank"
         rel="noreferrer"
         className="underline hover:text-gray-100"
-        href="https://github.com/Jao420"
+        href="https://github.com/JaoVSP"
       >
-        Jao420
+        JaoVSP
       </a>
     </div>
   )
