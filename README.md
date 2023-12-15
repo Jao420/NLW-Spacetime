@@ -28,5 +28,5 @@
 # Installing:
 
 ```bash
-$ git clone git@github.com:Jao420/NLW-Spacetime.git
+$ git clone git@github.com:JaoVSP/NLW-Spacetime.git
 ```
